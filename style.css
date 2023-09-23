@@ -16,11 +16,12 @@
     position: fixed;
     top: 0;
     bottom: 0;
-    width: 100vh;
-    height: 100vh;
+    width: 100px;
+    height: 100px;
     opacity: 0.25;
     z-index: -5000;
     background-size: cover;
+    
 }
 
 .background_image img {
@@ -35,11 +36,13 @@ nav {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 nav a {
     word-spacing: 3px;
-    margin-right: 80px;
+    margin: 18px;
     color: rgb(165, 22, 105);
     background-color: transparent;
     font-size: 20px;
