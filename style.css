@@ -36,16 +36,14 @@ nav {
     display: flex;
     justify-content: center;
     align-items: center;
-    max-width: 900px;
-    min-width: 200px;
     margin: auto;
+    text-align: center;
 }
 
 nav a {
     word-spacing: 3px;
     margin: 18px;
     color: rgb(165, 22, 105);
-    background-color: transparent;
     font-size: 20px;
     font-family: "Sofia", sans-serif;
     text-shadow: 3px 3px 3px #ababab;
