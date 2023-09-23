@@ -21,7 +21,7 @@
     opacity: 0.25;
     z-index: -5000;
     background-size: cover;
-    
+       
 }
 
 .background_image img {
@@ -36,8 +36,9 @@ nav {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-right: auto;
-    margin-left: auto;
+    max-width: 900px;
+    min-width: 200px;
+    margin: auto;
 }
 
 nav a {
