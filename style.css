@@ -8,6 +8,7 @@
     max-width: 900px;
     min-width: 200px;
     margin: auto;
+    overflow: hidden;
 }
 
 
@@ -20,8 +21,7 @@
     height: 100px;
     opacity: 0.25;
     z-index: -5000;
-    background-size: cover;
-       
+    background-size: cover;     
 }
 
 .background_image img {
